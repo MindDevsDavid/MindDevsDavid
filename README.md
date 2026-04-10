@@ -1,4 +1,4 @@
-# David Alejandr Gutiérrez Hernández
+# David Alejandro Gutiérrez Hernández
 
 **Frontend Developer / AI Developer**  
 Claude Code · React JS · Tailwind CSS · Supabase · WordPress
