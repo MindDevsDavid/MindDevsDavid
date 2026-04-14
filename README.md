@@ -1,4 +1,4 @@
-# David Alejandr Gutiérrez Hernández
+# David Alejandro Gutiérrez Hernández
 
 **Frontend Developer / AI Developer**  
 Claude Code · React JS · Tailwind CSS · Supabase · WordPress
@@ -57,6 +57,12 @@ En este perfil puedes encontrar ejemplos públicos de cómo estructuro código y
 
 - [portafolio](https://github.com/MindDevsDavid/MindDevsDavid.github.io)  
   Portafolio personal desplegado en GitHub Pages, teniendo a CSS como lenguaje predominante, con enfoque en el diseño sin depender excesivamente de Frameworks pesados.
+
+- [AI_Football](https://github.com/MindDevsDavid/IA-Football)  
+  Aplicación web con NodeJS , consumiendo la API de football-data.org para hacer una predicción de posibilidades de resultados de un partido de FootBall para diferentes ligas mediante un modelo de scoring ponderado de 5 factores.
+
+- [AI_ChatBot](https://github.com/MindDevsDavid/AI-ChatBot)  
+  Aplicación web con NodeJS , consumiendo la API de un modelo de IA (Groq) y conectandose a Whatsapp Web mediante JS para que la IA responda con información de un entrenamiento y flujo previamente dado.
 
 ---
 
